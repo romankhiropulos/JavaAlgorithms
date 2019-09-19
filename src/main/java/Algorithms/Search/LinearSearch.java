@@ -1,8 +1,5 @@
 package Algorithms.Search;
 
-import java.util.Collection;
-import java.util.List;
-
 /*  Linear Search - Линейный поиск
 
     Не подходит для поиска среди большого количества
